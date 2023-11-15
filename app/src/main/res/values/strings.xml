@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BankApp</string>
+    <string name="menu_call">Call</string>
+    <string name="menu_email">Email</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_details">Details</string>
+    <string name="add_client">Add client</string>
+    <string name="edit_client">Edit Client</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_client">Delete Client</string>
+    <string name="confirm_delete_client">Are you sure you want to delete this client?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="long_click_message">Long click to select an action</string>
+    <string name="edit_text_names_hint">Name</string>
+    <string name="edit_text_email_hint">Email</string>
+    <string name="edit_text_phone_hint">Phone</string>
+    <string name="edit_text_account_number_hint">Account Number</string>
+    <string name="edit_text_balance_hint">Balance</string>
+
+
+
+</resources>

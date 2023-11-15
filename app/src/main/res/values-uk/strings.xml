@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">БанкАп</string>
+    <string name="menu_call">Дзвінок</string>
+    <string name="menu_email">Електронна пошта</string>
+    <string name="menu_add">Додати</string>
+    <string name="menu_edit">Редагувати</string>
+    <string name="menu_delete">Видалити</string>
+    <string name="menu_details">Деталі</string>
+    <string name="add_client">Додати клієнта</string>
+    <string name="edit_client">Редагувати клієнта</string>
+    <string name="add">Додати</string>
+    <string name="save">Зберегти</string>
+    <string name="cancel">Відмінити</string>
+    <string name="delete_client">Видалити клієнта</string>
+    <string name="confirm_delete_client">Ви впевнені, що хочете видалити цього клієнта?</string>
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+    <string name="long_click_message">Довгий клік, щоб вибрати дію</string>
+
+    <string name="edit_text_names_hint">Імя</string>
+    <string name="edit_text_email_hint">Електронна пошта</string>
+    <string name="edit_text_phone_hint">Номер телефону</string>
+    <string name="edit_text_account_number_hint">Номер рахунку</string>
+    <string name="edit_text_balance_hint">Баланс</string>
+
+
+
+</resources>

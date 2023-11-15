@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuCall"
+        android:title="@string/menu_call" />
+    <item
+        android:id="@+id/menuEmail"
+        android:title="@string/menu_email" />
+    <item
+        android:id="@+id/menuAdd"
+        android:title="@string/menu_add" />
+    <item
+        android:id="@+id/menuEdit"
+        android:title="@string/menu_edit" />
+    <item
+        android:id="@+id/menuDelete"
+        android:title="@string/menu_delete" />
+    <item
+        android:id="@+id/menuDetails"
+        android:title="@string/menu_details" />
+</menu>
